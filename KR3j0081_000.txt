@@ -25,6 +25,8 @@
 道廣文此意徴予䟦¶
 語余深嘉　教之浹¶
 <pb:KR3j0081_SBCK_000-2b>¶
+# SB1_0441-007.png
+# page missing
 <pb:KR3j0081_SBCK_000-2b>¶
 風俗通序¶
 　城䨇劔張美謂天生寳¶
@@ -90,6 +92,8 @@
 語雖云浮淺然賢愚所共咨論有似犬馬其¶
 爲難矣并綜事冝於今者孔子稱幸苟有過¶
 <pb:KR3j0081_SBCK_000-6b>¶
+# SB1_0441-016.png
+# page missing
 <pb:KR3j0081_SBCK_000-6b>¶
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB03n0131-000風俗通義-目録.
